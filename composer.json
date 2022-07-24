@@ -1,0 +1,19 @@
+{
+    "name": "ilyasprogrammer/composer-learnhahahihi",
+    "description": "Lear Php Composer haha hihi",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Agung Ahmad Ilyas",
+            "email": "ilyasdoor33@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "ilyasprogrammerhaha\\Belajar\\" : "src/"
+        }
+    }
+}
